@@ -11,7 +11,7 @@ find gifs at: https://github.com/rudrabarad/Gifs
 
 - 🔭 I’m currently working on my [CodersFeed](https://github.com/prashantzzz/CodersFeed) website
 
-- 🌱 I’m currently learning **DSA Algos & Web Dev.**
+- 🌱 I’m currently working with **DSA Algos & Web Dev.**
 
 - 👨‍💻 Have a look at my [Portfolio Website](https://prashantz.my.canva.site/)
 
