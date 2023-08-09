@@ -9,16 +9,16 @@ find gifs at: https://github.com/rudrabarad/Gifs
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantzzz" alt="prashantzzz" /></a> </p>
 -->
 
-- 🔭 I’m currently working on my CodersFeed website [CodersFeed](https://github.com/prashantzzz/CodersFeed)
+- 🔭 I’m currently working on my [CodersFeed](https://github.com/prashantzzz/CodersFeed) website
 
 - 🌱 I’m currently learning **DSA Algos & Web Dev.**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://prashantz.my.canva.site/)
+- 👨‍💻 Have a look at my [Portfolio Website](https://prashantz.my.canva.site/)
 
-- 📫 How to reach me **prashant2003prashant@gmail.com**
+- 📫 Reach me at **prashant2003prashant@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CGf542zIJs8QJQWWoZGuDwQo1FZ9XSQz/view?usp=sharing)
-
+- 📄 To know about my experiences, click [Resume](https://drive.google.com/file/d/1CGf542zIJs8QJQWWoZGuDwQo1FZ9XSQz/view?usp=sharing)
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/prashantzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantzz" height="30" width="40" /></a>
@@ -38,15 +38,9 @@ find gifs at: https://github.com/rudrabarad/Gifs
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantzzz&show_icons=true&locale=en" alt="prashantzzz" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantzzz&" alt="prashantzzz" /></p>
 -->
-
-<div align="center">
-    <br>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-        <img src="https://streak-stats.demolab.com?user=prashantzzz&theme=default" />
-    </picture>
-    <br><br>
-</div>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantzzz&" alt="prashantzzz" /></p>
+<br>
 
 
 
