@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashant</h1>
+<h1 align="center">Hi, I'm Prashant</h1>
 <h3 align="center">A Passionate developer building websites, applications, and mastering DSA <br>on a quest to innovate and create meaningful solutions.</h3>
 
 <img align="right" alt="prashantzzz" width="300" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
@@ -10,15 +10,15 @@ find gifs at: https://github.com/rudrabarad/Gifs
 -->
 <br>                                                                                                                                     
 
-- 🔭 I’m currently working on my [CodersFeed](https://github.com/prashantzzz/CodersFeed) website
+- I’m currently working on my [CodersFeed](https://github.com/prashantzzz/CodersFeed) website
 
-- 🌱 I’m currently working with **DSA Algos & Web Dev.**
+- I’m currently working with **DSA Algos & Web Dev.**
 
-- 👨‍💻 Have a look at my [Portfolio Website](https://prashantz.my.canva.site/)
+- Have a look at my [Portfolio Website](https://prashantz.my.canva.site/)
 
-- 📫 Reach me at **prashant2003prashant@gmail.com**
+- Reach me at **prashant2003prashant@gmail.com**
 
-- 📄 To know about my experiences, click [Resume](https://drive.google.com/file/d/1CGf542zIJs8QJQWWoZGuDwQo1FZ9XSQz/view?usp=sharing)
+- To know about my experiences, click [Resume](https://drive.google.com/file/d/1CGf542zIJs8QJQWWoZGuDwQo1FZ9XSQz/view?usp=sharing)
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
