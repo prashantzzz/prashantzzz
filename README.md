@@ -16,7 +16,7 @@ find gifs at: https://github.com/rudrabarad/Gifs
 
 - Have a look at my [Portfolio Website](https://prashantz.my.canva.site/)
 
-- Reach me at **prashant2003prashant@gmail.com**
+- Reach me at prashant2003prashant@gmail.com
 
 - To know about my experiences, click [Resume](https://drive.google.com/file/d/1CGf542zIJs8QJQWWoZGuDwQo1FZ9XSQz/view?usp=sharing)
 <br>
