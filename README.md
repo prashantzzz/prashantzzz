@@ -14,7 +14,7 @@ find gifs at: https://github.com/rudrabarad/Gifs
 
 - I’m currently working with **DSA Algos & Web Dev.**
 
-- Have a look at my [Portfolio Website](https://prashantz.my.canva.site/)
+- Have a look at my [Portfolio Website](https://prashantzzz.github.io/Portfolio/)
 
 - Reach me at prashant2003prashant@gmail.com
 
