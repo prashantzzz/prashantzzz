@@ -40,8 +40,9 @@ find gifs at: https://github.com/rudrabarad/Gifs
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantzzz&" alt="prashantzzz" /></p>
 -->
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantzzz&" alt="prashantzzz" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantzzz&" alt="prashantzzz" style="pointer-events: none;" /></p>
 <br>
+
 
 
 
