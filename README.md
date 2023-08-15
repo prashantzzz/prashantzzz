@@ -41,9 +41,7 @@ find gifs at: https://github.com/rudrabarad/Gifs
 -->
 <br>
 <p align="center">
-  <div style="pointer-events: none;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantzzz&" alt="prashantzzz" />
-  </div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantzzz&" alt="prashantzzz" onclick="return false;" />
 </p>
 <br>
 
