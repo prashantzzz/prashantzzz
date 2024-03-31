@@ -9,15 +9,15 @@ find gifs at: https://github.com/rudrabarad/Gifs
 -->
 <br>                                                                                                                                     
 
-- I’m currently working on my [CodersFeed](https://github.com/prashantzzz/CodersFeed) website
+- I’m currently working on my [CodersFeed](https://github.com/prashantzzz/AIMED) website
 
-- I’m currently working with **DSA Algos & Web Dev.**
+- I’m currently occupied in **DSA Algos & Web Dev.**
 
 - Have a look at my [Portfolio Website](https://prashantzzz.github.io/Portfolio/)
 
 - Reach me at prashant2003prashant@gmail.com
 
-- To know about my experiences, click [Resume](https://drive.google.com/file/d/1CGf542zIJs8QJQWWoZGuDwQo1FZ9XSQz/view?usp=sharing)
+- To know about my experiences, click [Resume](https://drive.google.com/file/d/1FgXZI7WnjLxt16Irv6Z2iBS2sgz4GsvD/view?usp=drive_link)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
