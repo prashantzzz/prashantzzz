@@ -9,7 +9,7 @@ find gifs at: https://github.com/rudrabarad/Gifs
 -->
 <br>                                                                                                                                     
 
-- I’m currently working on my [CodersFeed](https://github.com/prashantzzz/AIMED) website
+- I’m currently working on my [**AI**MED](https://github.com/prashantzzz/AIMED) website
 
 - I’m currently occupied in **DSA Algos & Web Dev.**
 
