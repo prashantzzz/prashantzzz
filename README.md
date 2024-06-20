@@ -11,7 +11,7 @@ find gifs at: https://github.com/rudrabarad/Gifs
 
 - I’m currently working on GenAI projects [**AI**MED](https://github.com/prashantzzz/AIMED) and [GenZdev](https://genz-dev.netlify.app/)
 
-- I’m currently occupied in **DSA Algos & Web Dev.**
+- I’m currently occupied in **DSA & Web Dev.**
 
 - Have a look at my [Portfolio Website](https://prashantzzz.github.io/Portfolio/)
 
