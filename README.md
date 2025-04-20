@@ -13,7 +13,7 @@ find gifs at: https://github.com/rudrabarad/Gifs
 
 - I’m currently occupied in **DSA & Web Dev.**
 
-- Have a look at my [Portfolio Website](https://prashantzzz.github.io/Portfolio/)
+- Have a look at my [Portfolio Website](https://prashantzz.vercel.app/)
 
 - Reach me at prashant2003prashant@gmail.com
 
